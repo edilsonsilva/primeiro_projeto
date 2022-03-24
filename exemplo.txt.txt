@@ -1,0 +1,2 @@
+Primeiros passos com versionamento em GIT
+Estando os comando git
